@@ -81,7 +81,11 @@ To set up the project locally, please follow these steps:
 
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install .
+   ```
+4. **You can also instal them using `poetry`**:
+   ```bash
+   poetry install 
    ```
 
 ## 🚀 Usage
