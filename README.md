@@ -88,6 +88,16 @@ To set up the project locally, please follow these steps:
    poetry install 
    ```
 
+
+## 🐳 Using Docker
+
+This project provides a docker-compose.yml file to run the project in a docker container.To run the project in a docker container, follow these steps:
+ ```bash
+  docker-compose up
+  ```
+     
+
+
 ## 🚀 Usage
 
 1. **Preprocess the Data**:
